@@ -1,0 +1,2 @@
+model_checkpoint_path: "combined"
+all_model_checkpoint_paths: "combined"
